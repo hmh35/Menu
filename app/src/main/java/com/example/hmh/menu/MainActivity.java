@@ -9,7 +9,7 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.widget.EditText;
 import android.widget.Toast;
-
+//HMH
 public class MainActivity extends Activity {
     private EditText editText;
 
